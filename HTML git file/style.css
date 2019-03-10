@@ -1,0 +1,14 @@
+.box {
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 800;
+    color: #fff;
+  }
+.navbar {
+    border: 2px solid #000;
+  }
+  .blue {
+    background: rgb(16, 98, 126);
+  }
+  
